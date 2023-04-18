@@ -1,0 +1,75 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "question": "What is hate speech?",
+      "correct_answer": "Hate Speech is defined as an abusive and threatening speech or behaviour that demonstrates prejudices based on ethnicity, religion, gender, sexual preference, skin colour, or other similar grounds.",
+      "incorrect_answers": [
+        "Hate speech is being brave and confident about yourself and ideas. Proudly expressing it without worrying about what other people will think."
+      ]
+    },
+    {
+      "question": "What are the consequences of Hate Speech worldwide?",
+      "correct_answer": "Hate Speech makes people get separated, innocent people might get killed and freedom will get taken away from people whichever will create a world filled with hatred, and discrimination. It is our job to put an end to it before it’s too late.",
+      "incorrect_answers": [
+        "There is only one consequence and it only affects the person in a bad way which makes that person who experiences hate speech by someone else, feel bad about their true selves which can affect them in a very bad way like make them hate themselves."
+      ]
+    },
+    {
+      "question": "How can we understand that there is hate speech in any kind of news or around the media?",
+      "correct_answer": "We can understand that there is hate speech in the media or in the news because it talks about a group or person  that they dislike and send hatred towards them and cause segregation.",
+      "incorrect_answers": [
+        "We can understand that there is hate speech in any kind of news or media by seeing people talk about a person or a group of people."
+      ]
+    },
+    {
+      "question": "What does prejudice mean ?",
+      "correct_answer": "Hate Speech is being mean to a person because of their ethnicity,colour,sexuality etc. and causes segregation but inclusive language means not causing hate speech and protecting,helping or talking in an kind, acceptance way to people.",
+      "incorrect_answers": [
+        "Hate Speech is being mean to a person because of their ethnicity, colour, sexuality etc. and causes segregation but inclusive language means not doing hate speech but also  it means not helping people that experiences hate speech and only acting kind towards minorities only in front of the media."
+      ]
+    },
+    {
+      "question": "What does sexism mean?",
+      "correct_answer": "Prejudice is a preconceived opinion that is not based on reason or actual experience.",
+      "incorrect_answers": [
+        "Prejudice is happily accepting people for who they are and proving that preconceived opinions are always right."
+      ]
+    },
+    {
+      "question": "What does sexism mean?",
+      "correct_answer": "Sexism means prejudice, stereotyping, and discriminating people because of their gender, on the basis of sex.",
+      "incorrect_answers": [
+        "Sexism means recognition and understanding of the difference between one thing and another."
+      ]
+    },
+    {
+      "question": "What does being racist mean?",
+      "correct_answer": "Racism means prejudice, discrimination, or antagonism by an individual, community, or institution against a person or people on the basis of their membership of a particular racial or ethnic group, typically one that is a minority or marginalised.",
+      "incorrect_answers": [
+        "Racism means the quality or fact of belonging to a population group or subgroup made up of people who share a common cultural background or descent."
+      ]
+    },
+    {
+      "question": "What does anti-ethnic mean?",
+      "correct_answer": "Anti-ethnic means opposing those of a particular ethnicity.",
+      "incorrect_answers": [
+        "Anti-ethnic means to respect peoples ethnicity being anti towards hate speech."
+      ]
+    },
+    {
+      "question": "What does stereotype mean?",
+      "correct_answer": "Stereotype means a widely held but fixed and oversimplified image or idea of a particular type of person or thing.",
+      "incorrect_answers": [
+        "Stereotype means to act hateful towards another by abusing them."
+      ]
+    },
+    {
+      "question": "Why is it important that people should treat each other equally?",
+      "correct_answer": "If we treat everyone equally then everyone should be able to work together, solve problems, feel safe and cared for. Treating people equally is also a big part of human rights. So, everyone should be treated with respect, dignity, and kindness.",
+      "incorrect_answers": [
+        "If we treat everyone equally there will be more hatred in the world and no one would be able to work together and people would think they can cause such actions like hate speech."
+      ]
+    }
+  ]
+}
